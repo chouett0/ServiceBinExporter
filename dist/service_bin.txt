@@ -1,0 +1,3290 @@
+=========== .net clr data ============
+Image Path: 
+Service DLL: 
+
+
+=========== .net clr networking ============
+Image Path: 
+Service DLL: 
+
+
+=========== .net clr networking 4.0.0.0 ============
+Image Path: 
+Service DLL: 
+
+
+=========== .net data provider for oracle ============
+Image Path: 
+Service DLL: 
+
+
+=========== .net data provider for sqlserver ============
+Image Path: 
+Service DLL: 
+
+
+=========== .net memory cache 4.0 ============
+Image Path: 
+Service DLL: 
+
+
+=========== .netframework ============
+Image Path: 
+Service DLL: 
+
+
+=========== 1394ohci ============
+Image Path: \systemroot\system32\drivers\1394ohci.sys
+Service DLL: 
+
+
+=========== 3ware ============
+Image Path: system32\drivers\3ware.sys
+Service DLL: 
+
+
+=========== acpi ============
+Image Path: system32\drivers\acpi.sys
+Service DLL: 
+
+
+=========== acpidev ============
+Image Path: \systemroot\system32\drivers\acpidev.sys
+Service DLL: 
+
+
+=========== acpiex ============
+Image Path: system32\drivers\acpiex.sys
+Service DLL: 
+
+
+=========== acpipagr ============
+Image Path: \systemroot\system32\drivers\acpipagr.sys
+Service DLL: 
+
+
+=========== acpipmi ============
+Image Path: \systemroot\system32\drivers\acpipmi.sys
+Service DLL: 
+
+
+=========== acpitime ============
+Image Path: \systemroot\system32\drivers\acpitime.sys
+Service DLL: 
+
+
+=========== adovmppackage ============
+Image Path: 
+Service DLL: 
+
+
+=========== adp80xx ============
+Image Path: system32\drivers\adp80xx.sys
+Service DLL: 
+
+
+=========== adsi ============
+Image Path: 
+Service DLL: 
+
+
+=========== afd ============
+Image Path: \systemroot\system32\drivers\afd.sys
+Service DLL: 
+
+
+=========== afunix ============
+Image Path: \systemroot\system32\drivers\afunix.sys
+Service DLL: 
+
+
+=========== ahcache ============
+Image Path: system32\drivers\ahcache.sys
+Service DLL: 
+
+
+=========== ajrouter ============
+Image Path: c:\windows\system32\svchost.exe -k localservicenetworkrestricted -p
+Service DLL: c:\windows\system32\ajrouter.dll
+
+
+=========== alg ============
+Image Path: c:\windows\system32\alg.exe
+Service DLL: 
+
+
+=========== amdk8 ============
+Image Path: \systemroot\system32\drivers\amdk8.sys
+Service DLL: 
+
+
+=========== amdppm ============
+Image Path: \systemroot\system32\drivers\amdppm.sys
+Service DLL: 
+
+
+=========== amdsata ============
+Image Path: system32\drivers\amdsata.sys
+Service DLL: 
+
+
+=========== amdsbs ============
+Image Path: system32\drivers\amdsbs.sys
+Service DLL: 
+
+
+=========== amdxata ============
+Image Path: system32\drivers\amdxata.sys
+Service DLL: 
+
+
+=========== appid ============
+Image Path: system32\drivers\appid.sys
+Service DLL: 
+
+
+=========== appidsvc ============
+Image Path: c:\windows\system32\svchost.exe -k localservicenetworkrestricted -p
+Service DLL: c:\windows\system32\appidsvc.dll
+
+
+=========== appinfo ============
+Image Path: c:\windows\system32\svchost.exe -k netsvcs -p
+Service DLL: c:\windows\system32\appinfo.dll
+
+
+=========== applockerfltr ============
+Image Path: system32\drivers\applockerfltr.sys
+Service DLL: 
+
+
+=========== appmgmt ============
+Image Path: c:\windows\system32\svchost.exe -k netsvcs -p
+Service DLL: c:\windows\system32\appmgmts.dll
+
+
+=========== appreadiness ============
+Image Path: c:\windows\system32\svchost.exe -k appreadiness -p
+Service DLL: c:\windows\system32\appreadiness.dll
+
+
+=========== appvclient ============
+Image Path: c:\windows\system32\appvclient.exe
+Service DLL: 
+
+
+=========== appvstrm ============
+Image Path: \systemroot\system32\drivers\appvstrm.sys
+Service DLL: 
+
+
+=========== appvvemgr ============
+Image Path: \systemroot\system32\drivers\appvvemgr.sys
+Service DLL: 
+
+
+=========== appvvfs ============
+Image Path: \systemroot\system32\drivers\appvvfs.sys
+Service DLL: 
+
+
+=========== appxsvc ============
+Image Path: c:\windows\system32\svchost.exe -k wsappx -p
+Service DLL: c:\windows\system32\appxdeploymentserver.dll
+
+
+=========== arcsas ============
+Image Path: system32\drivers\arcsas.sys
+Service DLL: 
+
+
+=========== assignedaccessmanagersvc ============
+Image Path: c:\windows\system32\svchost.exe -k assignedaccessmanagersvc
+Service DLL: c:\windows\system32\assignedaccessmanagersvc.dll
+
+
+=========== asyncmac ============
+Image Path: \systemroot\system32\drivers\asyncmac.sys
+Service DLL: 
+
+
+=========== atapi ============
+Image Path: system32\drivers\atapi.sys
+Service DLL: 
+
+
+=========== audioendpointbuilder ============
+Image Path: c:\windows\system32\svchost.exe -k localsystemnetworkrestricted -p
+Service DLL: c:\windows\system32\audioendpointbuilder.dll
+
+
+=========== audiosrv ============
+Image Path: c:\windows\system32\svchost.exe -k localservicenetworkrestricted -p
+Service DLL: c:\windows\system32\audiosrv.dll
+
+
+=========== axinstsv ============
+Image Path: c:\windows\system32\svchost.exe -k axinstsvgroup
+Service DLL: c:\windows\system32\axinstsv.dll
+
+
+=========== b06bdrv ============
+Image Path: system32\drivers\bxvbda.sys
+Service DLL: 
+
+
+=========== balloon ============
+Image Path: \systemroot\system32\drivers\balloon.sys
+Service DLL: 
+
+
+=========== bam ============
+Image Path: system32\drivers\bam.sys
+Service DLL: 
+
+
+=========== basicdisplay ============
+Image Path: \systemroot\system32\driverstore\filerepository\basicdisplay.inf_amd64_5103ac179273be89\basicdisplay.sys
+Service DLL: 
+
+
+=========== basicrender ============
+Image Path: \systemroot\system32\driverstore\filerepository\basicrender.inf_amd64_0b8d03c3bc0e7fd9\basicrender.sys
+Service DLL: 
+
+
+=========== battc ============
+Image Path: 
+Service DLL: 
+
+
+=========== bcastdvruserservice ============
+Image Path: c:\windows\system32\svchost.exe -k bcastdvruserservice
+Service DLL: c:\windows\system32\bcastdvruserservice.dll
+
+
+=========== bcastdvruserservice_ee314e8 ============
+Image Path: c:\windows\system32\svchost.exe -k bcastdvruserservice
+Service DLL: 
+
+
+=========== bcmfn2 ============
+Image Path: \systemroot\system32\drivers\bcmfn2.sys
+Service DLL: 
+
+
+=========== bdesvc ============
+Image Path: c:\windows\system32\svchost.exe -k netsvcs -p
+Service DLL: c:\windows\system32\bdesvc.dll
+
+
+=========== beep ============
+Image Path: 
+Service DLL: 
+
+
+=========== bfe ============
+Image Path: c:\windows\system32\svchost.exe -k localservicenonetworkfirewall -p
+Service DLL: c:\windows\system32\bfe.dll
+
+
+=========== bindflt ============
+Image Path: \systemroot\system32\drivers\bindflt.sys
+Service DLL: 
+
+
+=========== bits ============
+Image Path: c:\windows\system32\svchost.exe -k netsvcs -p
+Service DLL: c:\windows\system32\qmgr.dll
+
+
+=========== bluetoothuserservice ============
+Image Path: c:\windows\system32\svchost.exe -k bthappgroup -p
+Service DLL: c:\windows\system32\microsoft.bluetooth.userservice.dll
+
+
+=========== bluetoothuserservice_ee314e8 ============
+Image Path: c:\windows\system32\svchost.exe -k bthappgroup -p
+Service DLL: 
+
+
+=========== bowser ============
+Image Path: system32\drivers\bowser.sys
+Service DLL: 
+
+
+=========== brokerinfrastructure ============
+Image Path: c:\windows\system32\svchost.exe -k dcomlaunch -p
+Service DLL: c:\windows\system32\psmsrv.dll
+
+
+=========== btagservice ============
+Image Path: c:\windows\system32\svchost.exe -k localservicenetworkrestricted
+Service DLL: c:\windows\system32\btagservice.dll
+
+
+=========== bthavctpsvc ============
+Image Path: c:\windows\system32\svchost.exe -k localservice -p
+Service DLL: c:\windows\system32\bthavctpsvc.dll
+
+
+=========== bthenum ============
+Image Path: \systemroot\system32\drivers\bthenum.sys
+Service DLL: 
+
+
+=========== bthhfenum ============
+Image Path: \systemroot\system32\drivers\bthhfenum.sys
+Service DLL: 
+
+
+=========== bthleenum ============
+Image Path: \systemroot\system32\drivers\microsoft.bluetooth.legacy.leenumerator.sys
+Service DLL: 
+
+
+=========== bthmini ============
+Image Path: \systemroot\system32\drivers\bthmini.sys
+Service DLL: 
+
+
+=========== bthmodem ============
+Image Path: \systemroot\system32\drivers\bthmodem.sys
+Service DLL: 
+
+
+=========== bthport ============
+Image Path: \systemroot\system32\drivers\bthport.sys
+Service DLL: 
+
+
+=========== bthserv ============
+Image Path: c:\windows\system32\svchost.exe -k localservice -p
+Service DLL: c:\windows\system32\bthserv.dll
+
+
+=========== bthusb ============
+Image Path: \systemroot\system32\drivers\bthusb.sys
+Service DLL: 
+
+
+=========== bttflt ============
+Image Path: system32\drivers\bttflt.sys
+Service DLL: 
+
+
+=========== buttonconverter ============
+Image Path: \systemroot\system32\drivers\buttonconverter.sys
+Service DLL: 
+
+
+=========== cad ============
+Image Path: \systemroot\system32\drivers\cad.sys
+Service DLL: 
+
+
+=========== camsvc ============
+Image Path: c:\windows\system32\svchost.exe -k appmodel -p
+Service DLL: c:\windows\system32\capabilityaccessmanager.dll
+
+
+=========== capimg ============
+Image Path: \systemroot\system32\drivers\capimg.sys
+Service DLL: 
+
+
+=========== captureservice ============
+Image Path: c:\windows\system32\svchost.exe -k localservice -p
+Service DLL: c:\windows\system32\captureservice.dll
+
+
+=========== captureservice_ee314e8 ============
+Image Path: c:\windows\system32\svchost.exe -k localservice -p
+Service DLL: 
+
+
+=========== cbdhsvc ============
+Image Path: c:\windows\system32\svchost.exe -k clipboardsvcgroup -p
+Service DLL: c:\windows\system32\cbdhsvc.dll
+
+
+=========== cbdhsvc_ee314e8 ============
+Image Path: c:\windows\system32\svchost.exe -k clipboardsvcgroup -p
+Service DLL: 
+
+
+=========== cdfs ============
+Image Path: system32\drivers\cdfs.sys
+Service DLL: 
+
+
+=========== cdpsvc ============
+Image Path: c:\windows\system32\svchost.exe -k localservice -p
+Service DLL: c:\windows\system32\cdpsvc.dll
+
+
+=========== cdpusersvc ============
+Image Path: c:\windows\system32\svchost.exe -k unistacksvcgroup
+Service DLL: c:\windows\system32\cdpusersvc.dll
+
+
+=========== cdpusersvc_ee314e8 ============
+Image Path: c:\windows\system32\svchost.exe -k unistacksvcgroup
+Service DLL: 
+
+
+=========== cdrom ============
+Image Path: \systemroot\system32\drivers\cdrom.sys
+Service DLL: 
+
+
+=========== certpropsvc ============
+Image Path: c:\windows\system32\svchost.exe -k netsvcs
+Service DLL: c:\windows\system32\certprop.dll
+
+
+=========== cht4iscsi ============
+Image Path: system32\drivers\cht4sx64.sys
+Service DLL: 
+
+
+=========== cht4vbd ============
+Image Path: \systemroot\system32\drivers\cht4vx64.sys
+Service DLL: 
+
+
+=========== circlass ============
+Image Path: \systemroot\system32\drivers\circlass.sys
+Service DLL: 
+
+
+=========== cldflt ============
+Image Path: system32\drivers\cldflt.sys
+Service DLL: 
+
+
+=========== clfs ============
+Image Path: system32\drivers\clfs.sys
+Service DLL: 
+
+
+=========== clipsvc ============
+Image Path: c:\windows\system32\svchost.exe -k wsappx -p
+Service DLL: c:\windows\system32\clipsvc.dll
+
+
+=========== clr_optimization_v4.0.30319_32 ============
+Image Path: 
+Service DLL: 
+
+
+=========== clr_optimization_v4.0.30319_64 ============
+Image Path: 
+Service DLL: 
+
+
+=========== cmbatt ============
+Image Path: \systemroot\system32\drivers\cmbatt.sys
+Service DLL: 
+
+
+=========== cng ============
+Image Path: system32\drivers\cng.sys
+Service DLL: 
+
+
+=========== cnghwassist ============
+Image Path: system32\drivers\cnghwassist.sys
+Service DLL: 
+
+
+=========== compositebus ============
+Image Path: \systemroot\system32\driverstore\filerepository\compositebus.inf_amd64_e4d35af746093dc3\compositebus.sys
+Service DLL: 
+
+
+=========== comsysapp ============
+Image Path: c:\windows\system32\dllhost.exe /processid:{02d4b3f1-fd88-11d1-960d-00805fc79235}
+Service DLL: 
+
+
+=========== condrv ============
+Image Path: system32\drivers\condrv.sys
+Service DLL: 
+
+
+=========== consentuxusersvc ============
+Image Path: c:\windows\system32\svchost.exe -k devicesflow
+Service DLL: c:\windows\system32\consentuxclient.dll
+
+
+=========== consentuxusersvc_ee314e8 ============
+Image Path: c:\windows\system32\svchost.exe -k devicesflow
+Service DLL: 
+
+
+=========== coremessagingregistrar ============
+Image Path: c:\windows\system32\svchost.exe -k localservicenonetwork -p
+Service DLL: c:\windows\system32\coremessaging.dll
+
+
+=========== coreui ============
+Image Path: 
+Service DLL: 
+
+
+=========== crypt32 ============
+Image Path: 
+Service DLL: 
+
+
+=========== cryptsvc ============
+Image Path: c:\windows\system32\svchost.exe -k networkservice -p
+Service DLL: c:\windows\system32\cryptsvc.dll
+
+
+=========== csc ============
+Image Path: system32\drivers\csc.sys
+Service DLL: 
+
+
+=========== cscservice ============
+Image Path: c:\windows\system32\svchost.exe -k localsystemnetworkrestricted -p
+Service DLL: c:\windows\system32\cscsvc.dll
+
+
+=========== dam ============
+Image Path: system32\drivers\dam.sys
+Service DLL: 
+
+
+=========== dclocator ============
+Image Path: 
+Service DLL: 
+
+
+=========== dcomlaunch ============
+Image Path: c:\windows\system32\svchost.exe -k dcomlaunch -p
+Service DLL: c:\windows\system32\rpcss.dll
+
+
+=========== defragsvc ============
+Image Path: c:\windows\system32\svchost.exe -k defragsvc
+Service DLL: c:\windows\system32\defragsvc.dll
+
+
+=========== deviceassociationservice ============
+Image Path: c:\windows\system32\svchost.exe -k localsystemnetworkrestricted -p
+Service DLL: c:\windows\system32\das.dll
+
+
+=========== deviceinstall ============
+Image Path: c:\windows\system32\svchost.exe -k dcomlaunch -p
+Service DLL: c:\windows\system32\umpnpmgr.dll
+
+
+=========== devicepickerusersvc ============
+Image Path: c:\windows\system32\svchost.exe -k devicesflow
+Service DLL: c:\windows\system32\windows.devices.picker.dll
+
+
+=========== devicepickerusersvc_ee314e8 ============
+Image Path: c:\windows\system32\svchost.exe -k devicesflow
+Service DLL: 
+
+
+=========== devicesflowusersvc ============
+Image Path: c:\windows\system32\svchost.exe -k devicesflow
+Service DLL: c:\windows\system32\devicesflowbroker.dll
+
+
+=========== devicesflowusersvc_ee314e8 ============
+Image Path: c:\windows\system32\svchost.exe -k devicesflow
+Service DLL: 
+
+
+=========== devquerybroker ============
+Image Path: c:\windows\system32\svchost.exe -k localsystemnetworkrestricted -p
+Service DLL: c:\windows\system32\devquerybroker.dll
+
+
+=========== dfsc ============
+Image Path: system32\drivers\dfsc.sys
+Service DLL: 
+
+
+=========== dhcp ============
+Image Path: c:\windows\system32\svchost.exe -k localservicenetworkrestricted -p
+Service DLL: c:\windows\system32\dhcpcore.dll
+
+
+=========== diagnosticshub.standardcollector.service ============
+Image Path: c:\windows\system32\diagsvcs\diagnosticshub.standardcollector.service.exe
+Service DLL: 
+
+
+=========== diagsvc ============
+Image Path: c:\windows\system32\svchost.exe -k diagnostics
+Service DLL: c:\windows\system32\diagsvc.dll
+
+
+=========== diagtrack ============
+Image Path: c:\windows\system32\svchost.exe -k utcsvc -p
+Service DLL: c:\windows\system32\diagtrack.dll
+
+
+=========== disk ============
+Image Path: system32\drivers\disk.sys
+Service DLL: 
+
+
+=========== displayenhancementservice ============
+Image Path: c:\windows\system32\svchost.exe -k localsystemnetworkrestricted -p
+Service DLL: c:\windows\system32\microsoft.graphics.display.displayenhancementservice.dll
+
+
+=========== dmenrollmentsvc ============
+Image Path: c:\windows\system32\svchost.exe -k netsvcs -p
+Service DLL: c:\windows\system32\windows.internal.management.dll
+
+
+=========== dmvsc ============
+Image Path: \systemroot\system32\drivers\dmvsc.sys
+Service DLL: 
+
+
+=========== dmwappushservice ============
+Image Path: c:\windows\system32\svchost.exe -k netsvcs -p
+Service DLL: c:\windows\system32\dmwappushsvc.dll
+
+
+=========== dnscache ============
+Image Path: c:\windows\system32\svchost.exe -k networkservice -p
+Service DLL: c:\windows\system32\dnsrslvr.dll
+
+
+=========== dosvc ============
+Image Path: c:\windows\system32\svchost.exe -k networkservice -p
+Service DLL: 
+
+
+=========== dot3svc ============
+Image Path: c:\windows\system32\svchost.exe -k localsystemnetworkrestricted -p
+Service DLL: c:\windows\system32\dot3svc.dll
+
+
+=========== dps ============
+Image Path: c:\windows\system32\svchost.exe -k localservicenonetwork -p
+Service DLL: c:\windows\system32\dps.dll
+
+
+=========== drmkaud ============
+Image Path: \systemroot\system32\drivers\drmkaud.sys
+Service DLL: 
+
+
+=========== dsmsvc ============
+Image Path: c:\windows\system32\svchost.exe -k netsvcs -p
+Service DLL: c:\windows\system32\devicesetupmanager.dll
+
+
+=========== dssvc ============
+Image Path: c:\windows\system32\svchost.exe -k localsystemnetworkrestricted -p
+Service DLL: c:\windows\system32\dssvc.dll
+
+
+=========== dusmsvc ============
+Image Path: c:\windows\system32\svchost.exe -k localservicenetworkrestricted -p
+Service DLL: c:\windows\system32\dusmsvc.dll
+
+
+=========== dxgkrnl ============
+Image Path: \systemroot\system32\drivers\dxgkrnl.sys
+Service DLL: 
+
+
+=========== eaphost ============
+Image Path: c:\windows\system32\svchost.exe -k netsvcs -p
+Service DLL: c:\windows\system32\eapsvc.dll
+
+
+=========== ebdrv ============
+Image Path: system32\drivers\evbda.sys
+Service DLL: 
+
+
+=========== efs ============
+Image Path: c:\windows\system32\lsass.exe
+Service DLL: c:\windows\system32\efssvc.dll
+
+
+=========== ehstorclass ============
+Image Path: system32\drivers\ehstorclass.sys
+Service DLL: 
+
+
+=========== ehstortcgdrv ============
+Image Path: system32\drivers\ehstortcgdrv.sys
+Service DLL: 
+
+
+=========== embeddedmode ============
+Image Path: c:\windows\system32\svchost.exe -k localsystemnetworkrestricted -p
+Service DLL: c:\windows\system32\embeddedmodesvc.dll
+
+
+=========== entappsvc ============
+Image Path: c:\windows\system32\svchost.exe -k appmodel -p
+Service DLL: c:\windows\system32\enterpriseappmgmtsvc.dll
+
+
+=========== errdev ============
+Image Path: \systemroot\system32\drivers\errdev.sys
+Service DLL: 
+
+
+=========== esent ============
+Image Path: 
+Service DLL: 
+
+
+=========== eventlog ============
+Image Path: c:\windows\system32\svchost.exe -k localservicenetworkrestricted -p
+Service DLL: c:\windows\system32\wevtsvc.dll
+
+
+=========== eventsystem ============
+Image Path: c:\windows\system32\svchost.exe -k localservice -p
+Service DLL: c:\windows\system32\es.dll
+
+
+=========== exfat ============
+Image Path: 
+Service DLL: 
+
+
+=========== fastfat ============
+Image Path: 
+Service DLL: 
+
+
+=========== fax ============
+Image Path: c:\windows\system32\fxssvc.exe
+Service DLL: 
+
+
+=========== fdc ============
+Image Path: \systemroot\system32\drivers\fdc.sys
+Service DLL: 
+
+
+=========== fdphost ============
+Image Path: c:\windows\system32\svchost.exe -k localservice -p
+Service DLL: c:\windows\system32\fdphost.dll
+
+
+=========== fdrespub ============
+Image Path: c:\windows\system32\svchost.exe -k localserviceandnoimpersonation -p
+Service DLL: c:\windows\system32\fdrespub.dll
+
+
+=========== fhsvc ============
+Image Path: c:\windows\system32\svchost.exe -k localsystemnetworkrestricted -p
+Service DLL: c:\windows\system32\fhsvc.dll
+
+
+=========== filecrypt ============
+Image Path: system32\drivers\filecrypt.sys
+Service DLL: 
+
+
+=========== fileinfo ============
+Image Path: system32\drivers\fileinfo.sys
+Service DLL: 
+
+
+=========== filetrace ============
+Image Path: system32\drivers\filetrace.sys
+Service DLL: 
+
+
+=========== flpydisk ============
+Image Path: \systemroot\system32\drivers\flpydisk.sys
+Service DLL: 
+
+
+=========== fltmgr ============
+Image Path: system32\drivers\fltmgr.sys
+Service DLL: 
+
+
+=========== fontcache ============
+Image Path: c:\windows\system32\svchost.exe -k localservice -p
+Service DLL: c:\windows\system32\fntcache.dll
+
+
+=========== frameserver ============
+Image Path: c:\windows\system32\svchost.exe -k camera
+Service DLL: c:\windows\system32\frameserver.dll
+
+
+=========== fsdepends ============
+Image Path: system32\drivers\fsdepends.sys
+Service DLL: 
+
+
+=========== fs_rec ============
+Image Path: 
+Service DLL: 
+
+
+=========== fvevol ============
+Image Path: system32\drivers\fvevol.sys
+Service DLL: 
+
+
+=========== gencounter ============
+Image Path: \systemroot\system32\drivers\vmgencounter.sys
+Service DLL: 
+
+
+=========== genericusbfn ============
+Image Path: \systemroot\system32\drivers\genericusbfn.sys
+Service DLL: 
+
+
+=========== gpioclx0101 ============
+Image Path: system32\drivers\msgpioclx.sys
+Service DLL: 
+
+
+=========== gpsvc ============
+Image Path: c:\windows\system32\svchost.exe -k netsvcs -p
+Service DLL: c:\windows\system32\gpsvc.dll
+
+
+=========== gpuenergydrv ============
+Image Path: system32\drivers\gpuenergydrv.sys
+Service DLL: 
+
+
+=========== graphicsperfsvc ============
+Image Path: c:\windows\system32\svchost.exe -k graphicsperfsvcgroup
+Service DLL: c:\windows\system32\graphicsperfsvc.dll
+
+
+=========== hdaudbus ============
+Image Path: \systemroot\system32\drivers\hdaudbus.sys
+Service DLL: 
+
+
+=========== hidbatt ============
+Image Path: \systemroot\system32\drivers\hidbatt.sys
+Service DLL: 
+
+
+=========== hidbth ============
+Image Path: \systemroot\system32\drivers\hidbth.sys
+Service DLL: 
+
+
+=========== hidi2c ============
+Image Path: \systemroot\system32\drivers\hidi2c.sys
+Service DLL: 
+
+
+=========== hidinterrupt ============
+Image Path: \systemroot\system32\drivers\hidinterrupt.sys
+Service DLL: 
+
+
+=========== hidir ============
+Image Path: \systemroot\system32\drivers\hidir.sys
+Service DLL: 
+
+
+=========== hidserv ============
+Image Path: c:\windows\system32\svchost.exe -k localsystemnetworkrestricted -p
+Service DLL: c:\windows\system32\hidserv.dll
+
+
+=========== hidspi ============
+Image Path: \systemroot\system32\drivers\hidspi.sys
+Service DLL: 
+
+
+=========== hidusb ============
+Image Path: \systemroot\system32\drivers\hidusb.sys
+Service DLL: 
+
+
+=========== homegrouplistener ============
+Image Path: 
+Service DLL: c:\windows\system32\listsvc.dll
+
+
+=========== homegroupprovider ============
+Image Path: 
+Service DLL: c:\windows\system32\provsvc.dll
+
+
+=========== hpsamd ============
+Image Path: system32\drivers\hpsamd.sys
+Service DLL: 
+
+
+=========== http ============
+Image Path: system32\drivers\http.sys
+Service DLL: 
+
+
+=========== hvcrash ============
+Image Path: \systemroot\system32\drivers\hvcrash.sys
+Service DLL: 
+
+
+=========== hvhost ============
+Image Path: c:\windows\system32\svchost.exe -k localsystemnetworkrestricted -p
+Service DLL: c:\windows\system32\hvhostsvc.dll
+
+
+=========== hvservice ============
+Image Path: system32\drivers\hvservice.sys
+Service DLL: 
+
+
+=========== hwnclx0101 ============
+Image Path: system32\drivers\mshwnclx.sys
+Service DLL: 
+
+
+=========== hwpolicy ============
+Image Path: system32\drivers\hwpolicy.sys
+Service DLL: 
+
+
+=========== hyperkbd ============
+Image Path: \systemroot\system32\drivers\hyperkbd.sys
+Service DLL: 
+
+
+=========== hypervideo ============
+Image Path: \systemroot\system32\drivers\hypervideo.sys
+Service DLL: 
+
+
+=========== i8042prt ============
+Image Path: \systemroot\system32\drivers\i8042prt.sys
+Service DLL: 
+
+
+=========== iagpio ============
+Image Path: \systemroot\system32\drivers\iagpio.sys
+Service DLL: 
+
+
+=========== iai2c ============
+Image Path: \systemroot\system32\drivers\iai2c.sys
+Service DLL: 
+
+
+=========== ialpss2i_gpio2 ============
+Image Path: \systemroot\system32\drivers\ialpss2i_gpio2.sys
+Service DLL: 
+
+
+=========== ialpss2i_gpio2_bxt_p ============
+Image Path: \systemroot\system32\drivers\ialpss2i_gpio2_bxt_p.sys
+Service DLL: 
+
+
+=========== ialpss2i_gpio2_cnl ============
+Image Path: \systemroot\system32\drivers\ialpss2i_gpio2_cnl.sys
+Service DLL: 
+
+
+=========== ialpss2i_gpio2_glk ============
+Image Path: \systemroot\system32\drivers\ialpss2i_gpio2_glk.sys
+Service DLL: 
+
+
+=========== ialpss2i_i2c ============
+Image Path: \systemroot\system32\drivers\ialpss2i_i2c.sys
+Service DLL: 
+
+
+=========== ialpss2i_i2c_bxt_p ============
+Image Path: \systemroot\system32\drivers\ialpss2i_i2c_bxt_p.sys
+Service DLL: 
+
+
+=========== ialpss2i_i2c_cnl ============
+Image Path: \systemroot\system32\drivers\ialpss2i_i2c_cnl.sys
+Service DLL: 
+
+
+=========== ialpss2i_i2c_glk ============
+Image Path: \systemroot\system32\drivers\ialpss2i_i2c_glk.sys
+Service DLL: 
+
+
+=========== ialpssi_gpio ============
+Image Path: \systemroot\system32\drivers\ialpssi_gpio.sys
+Service DLL: 
+
+
+=========== ialpssi_i2c ============
+Image Path: \systemroot\system32\drivers\ialpssi_i2c.sys
+Service DLL: 
+
+
+=========== iastoravc ============
+Image Path: system32\drivers\iastoravc.sys
+Service DLL: 
+
+
+=========== iastorv ============
+Image Path: system32\drivers\iastorv.sys
+Service DLL: 
+
+
+=========== ibbus ============
+Image Path: \systemroot\system32\drivers\ibbus.sys
+Service DLL: 
+
+
+=========== icssvc ============
+Image Path: c:\windows\system32\svchost.exe -k localservicenetworkrestricted -p
+Service DLL: c:\windows\system32\tetheringservice.dll
+
+
+=========== ikeext ============
+Image Path: c:\windows\system32\svchost.exe -k netsvcs -p
+Service DLL: c:\windows\system32\ikeext.dll
+
+
+=========== indirectkmd ============
+Image Path: \systemroot\system32\drivers\indirectkmd.sys
+Service DLL: 
+
+
+=========== inetaccs ============
+Image Path: 
+Service DLL: 
+
+
+=========== installservice ============
+Image Path: c:\windows\system32\svchost.exe -k netsvcs -p
+Service DLL: c:\windows\system32\installservice.dll
+
+
+=========== intelide ============
+Image Path: system32\drivers\intelide.sys
+Service DLL: 
+
+
+=========== intelpep ============
+Image Path: system32\drivers\intelpep.sys
+Service DLL: 
+
+
+=========== intelppm ============
+Image Path: \systemroot\system32\drivers\intelppm.sys
+Service DLL: 
+
+
+=========== iorate ============
+Image Path: system32\drivers\iorate.sys
+Service DLL: 
+
+
+=========== ipfilterdriver ============
+Image Path: system32\drivers\ipfltdrv.sys
+Service DLL: 
+
+
+=========== iphlpsvc ============
+Image Path: c:\windows\system32\svchost.exe -k netsvcs -p
+Service DLL: c:\windows\system32\iphlpsvc.dll
+
+
+=========== ipmidrv ============
+Image Path: \systemroot\system32\drivers\ipmidrv.sys
+Service DLL: 
+
+
+=========== ipnat ============
+Image Path: system32\drivers\ipnat.sys
+Service DLL: 
+
+
+=========== ipt ============
+Image Path: \systemroot\system32\drivers\ipt.sys
+Service DLL: 
+
+
+=========== ipxlatcfgsvc ============
+Image Path: c:\windows\system32\svchost.exe -k localsystemnetworkrestricted -p
+Service DLL: c:\windows\system32\ipxlatcfg.dll
+
+
+=========== irda ============
+Image Path: \systemroot\system32\drivers\irda.sys
+Service DLL: 
+
+
+=========== irenum ============
+Image Path: system32\drivers\irenum.sys
+Service DLL: 
+
+
+=========== irmon ============
+Image Path: c:\windows\system32\svchost.exe -k localsystemnetworkrestricted -p
+Service DLL: c:\windows\system32\irmon.dll
+
+
+=========== isapnp ============
+Image Path: system32\drivers\isapnp.sys
+Service DLL: 
+
+
+=========== iscsiprt ============
+Image Path: \systemroot\system32\drivers\msiscsi.sys
+Service DLL: 
+
+
+=========== itsas35i ============
+Image Path: system32\drivers\itsas35i.sys
+Service DLL: 
+
+
+=========== kbdclass ============
+Image Path: \systemroot\system32\drivers\kbdclass.sys
+Service DLL: 
+
+
+=========== kbdhid ============
+Image Path: \systemroot\system32\drivers\kbdhid.sys
+Service DLL: 
+
+
+=========== kdnic ============
+Image Path: \systemroot\system32\drivers\kdnic.sys
+Service DLL: 
+
+
+=========== keyiso ============
+Image Path: c:\windows\system32\lsass.exe
+Service DLL: c:\windows\system32\keyiso.dll
+
+
+=========== ksecdd ============
+Image Path: system32\drivers\ksecdd.sys
+Service DLL: 
+
+
+=========== ksecpkg ============
+Image Path: system32\drivers\ksecpkg.sys
+Service DLL: 
+
+
+=========== ksthunk ============
+Image Path: \systemroot\system32\drivers\ksthunk.sys
+Service DLL: 
+
+
+=========== ktmrm ============
+Image Path: c:\windows\system32\svchost.exe -k networkserviceandnoimpersonation -p
+Service DLL: c:\windows\system32\msdtckrm.dll
+
+
+=========== lanmanserver ============
+Image Path: c:\windows\system32\svchost.exe -k netsvcs -p
+Service DLL: c:\windows\system32\srvsvc.dll
+
+
+=========== lanmanworkstation ============
+Image Path: c:\windows\system32\svchost.exe -k networkservice -p
+Service DLL: c:\windows\system32\wkssvc.dll
+
+
+=========== ldap ============
+Image Path: 
+Service DLL: 
+
+
+=========== lfsvc ============
+Image Path: c:\windows\system32\svchost.exe -k netsvcs -p
+Service DLL: c:\windows\system32\lfsvc.dll
+
+
+=========== licensemanager ============
+Image Path: c:\windows\system32\svchost.exe -k localservice -p
+Service DLL: c:\windows\system32\licensemanagersvc.dll
+
+
+=========== lltdio ============
+Image Path: system32\drivers\lltdio.sys
+Service DLL: 
+
+
+=========== lltdsvc ============
+Image Path: c:\windows\system32\svchost.exe -k localservice -p
+Service DLL: c:\windows\system32\lltdsvc.dll
+
+
+=========== lmhosts ============
+Image Path: c:\windows\system32\svchost.exe -k localservicenetworkrestricted -p
+Service DLL: 
+
+
+=========== lsa ============
+Image Path: 
+Service DLL: 
+
+
+=========== lsi_sas ============
+Image Path: system32\drivers\lsi_sas.sys
+Service DLL: 
+
+
+=========== lsi_sas2i ============
+Image Path: system32\drivers\lsi_sas2i.sys
+Service DLL: 
+
+
+=========== lsi_sas3i ============
+Image Path: system32\drivers\lsi_sas3i.sys
+Service DLL: 
+
+
+=========== lsi_sss ============
+Image Path: system32\drivers\lsi_sss.sys
+Service DLL: 
+
+
+=========== lsm ============
+Image Path: c:\windows\system32\svchost.exe -k dcomlaunch -p
+Service DLL: c:\windows\system32\lsm.dll
+
+
+=========== luafv ============
+Image Path: \systemroot\system32\drivers\luafv.sys
+Service DLL: 
+
+
+=========== lxpsvc ============
+Image Path: c:\windows\system32\svchost.exe -k netsvcs
+Service DLL: c:\windows\system32\languageoverlayserver.dll
+
+
+=========== mapsbroker ============
+Image Path: c:\windows\system32\svchost.exe -k networkservice -p
+Service DLL: c:\windows\system32\moshost.dll
+
+
+=========== mausbhost ============
+Image Path: \systemroot\system32\drivers\mausbhost.sys
+Service DLL: 
+
+
+=========== mausbip ============
+Image Path: \systemroot\system32\drivers\mausbip.sys
+Service DLL: 
+
+
+=========== mbbcx ============
+Image Path: system32\drivers\mbbcx.sys
+Service DLL: 
+
+
+=========== megasas ============
+Image Path: system32\drivers\megasas.sys
+Service DLL: 
+
+
+=========== megasas2i ============
+Image Path: system32\drivers\megasas2i.sys
+Service DLL: 
+
+
+=========== megasas35i ============
+Image Path: system32\drivers\megasas35i.sys
+Service DLL: 
+
+
+=========== megasr ============
+Image Path: system32\drivers\megasr.sys
+Service DLL: 
+
+
+=========== messagingservice ============
+Image Path: c:\windows\system32\svchost.exe -k unistacksvcgroup
+Service DLL: c:\windows\system32\messagingservice.dll
+
+
+=========== messagingservice_ee314e8 ============
+Image Path: c:\windows\system32\svchost.exe -k unistacksvcgroup
+Service DLL: 
+
+
+=========== microsoft_bluetooth_avrcptransport ============
+Image Path: \systemroot\system32\drivers\microsoft.bluetooth.avrcptransport.sys
+Service DLL: 
+
+
+=========== mlx4_bus ============
+Image Path: \systemroot\system32\drivers\mlx4_bus.sys
+Service DLL: 
+
+
+=========== mmcss ============
+Image Path: \systemroot\system32\drivers\mmcss.sys
+Service DLL: 
+
+
+=========== modem ============
+Image Path: system32\drivers\modem.sys
+Service DLL: 
+
+
+=========== monitor ============
+Image Path: \systemroot\system32\drivers\monitor.sys
+Service DLL: 
+
+
+=========== mouclass ============
+Image Path: \systemroot\system32\drivers\mouclass.sys
+Service DLL: 
+
+
+=========== mouhid ============
+Image Path: \systemroot\system32\drivers\mouhid.sys
+Service DLL: 
+
+
+=========== mountmgr ============
+Image Path: system32\drivers\mountmgr.sys
+Service DLL: 
+
+
+=========== mozillamaintenance ============
+Image Path: "c:\program files (x86)\mozilla maintenance service\maintenanceservice.exe"
+Service DLL: 
+
+
+=========== mpsdrv ============
+Image Path: system32\drivers\mpsdrv.sys
+Service DLL: 
+
+
+=========== mpssvc ============
+Image Path: c:\windows\system32\svchost.exe -k localservicenonetworkfirewall -p
+Service DLL: c:\windows\system32\mpssvc.dll
+
+
+=========== mrxdav ============
+Image Path: \systemroot\system32\drivers\mrxdav.sys
+Service DLL: 
+
+
+=========== mrxsmb ============
+Image Path: system32\drivers\mrxsmb.sys
+Service DLL: 
+
+
+=========== mrxsmb20 ============
+Image Path: system32\drivers\mrxsmb20.sys
+Service DLL: 
+
+
+=========== msbridge ============
+Image Path: system32\drivers\bridge.sys
+Service DLL: 
+
+
+=========== msdtc ============
+Image Path: c:\windows\system32\msdtc.exe
+Service DLL: 
+
+
+=========== msdtc bridge 4.0.0.0 ============
+Image Path: 
+Service DLL: 
+
+
+=========== msfs ============
+Image Path: 
+Service DLL: 
+
+
+=========== msgpiowin32 ============
+Image Path: \systemroot\system32\drivers\msgpiowin32.sys
+Service DLL: 
+
+
+=========== mshidkmdf ============
+Image Path: \systemroot\system32\drivers\mshidkmdf.sys
+Service DLL: 
+
+
+=========== mshidumdf ============
+Image Path: \systemroot\system32\drivers\mshidumdf.sys
+Service DLL: 
+
+
+=========== msisadrv ============
+Image Path: system32\drivers\msisadrv.sys
+Service DLL: 
+
+
+=========== msiscsi ============
+Image Path: c:\windows\system32\svchost.exe -k netsvcs -p
+Service DLL: c:\windows\system32\iscsiexe.dll
+
+
+=========== msiserver ============
+Image Path: c:\windows\system32\msiexec.exe /v
+Service DLL: 
+
+
+=========== mskssrv ============
+Image Path: \systemroot\system32\drivers\mskssrv.sys
+Service DLL: 
+
+
+=========== mslldp ============
+Image Path: system32\drivers\mslldp.sys
+Service DLL: 
+
+
+=========== mspclock ============
+Image Path: \systemroot\system32\drivers\mspclock.sys
+Service DLL: 
+
+
+=========== mspqm ============
+Image Path: \systemroot\system32\drivers\mspqm.sys
+Service DLL: 
+
+
+=========== msrpc ============
+Image Path: 
+Service DLL: 
+
+
+=========== msscntrs ============
+Image Path: 
+Service DLL: 
+
+
+=========== mssecflt ============
+Image Path: system32\drivers\mssecflt.sys
+Service DLL: 
+
+
+=========== mssmbios ============
+Image Path: \systemroot\system32\drivers\mssmbios.sys
+Service DLL: 
+
+
+=========== mstee ============
+Image Path: \systemroot\system32\drivers\mstee.sys
+Service DLL: 
+
+
+=========== mtconfig ============
+Image Path: \systemroot\system32\drivers\mtconfig.sys
+Service DLL: 
+
+
+=========== mup ============
+Image Path: system32\drivers\mup.sys
+Service DLL: 
+
+
+=========== mvumis ============
+Image Path: system32\drivers\mvumis.sys
+Service DLL: 
+
+
+=========== napagent ============
+Image Path: 
+Service DLL: 
+
+
+=========== nativewifip ============
+Image Path: system32\drivers\nwifi.sys
+Service DLL: 
+
+
+=========== naturalauthentication ============
+Image Path: c:\windows\system32\svchost.exe -k netsvcs -p
+Service DLL: c:\windows\system32\naturalauth.dll
+
+
+=========== ncasvc ============
+Image Path: c:\windows\system32\svchost.exe -k netsvcs -p
+Service DLL: c:\windows\system32\ncasvc.dll
+
+
+=========== ncbservice ============
+Image Path: c:\windows\system32\svchost.exe -k localsystemnetworkrestricted -p
+Service DLL: c:\windows\system32\ncbservice.dll
+
+
+=========== ncdautosetup ============
+Image Path: c:\windows\system32\svchost.exe -k localservicenonetwork -p
+Service DLL: c:\windows\system32\ncdautosetup.dll
+
+
+=========== ndfltr ============
+Image Path: \systemroot\system32\drivers\ndfltr.sys
+Service DLL: 
+
+
+=========== ndis ============
+Image Path: system32\drivers\ndis.sys
+Service DLL: 
+
+
+=========== ndiscap ============
+Image Path: system32\drivers\ndiscap.sys
+Service DLL: 
+
+
+=========== ndisimplatform ============
+Image Path: system32\drivers\ndisimplatform.sys
+Service DLL: 
+
+
+=========== ndistapi ============
+Image Path: system32\drivers\ndistapi.sys
+Service DLL: 
+
+
+=========== ndisuio ============
+Image Path: system32\drivers\ndisuio.sys
+Service DLL: 
+
+
+=========== ndisvirtualbus ============
+Image Path: \systemroot\system32\drivers\ndisvirtualbus.sys
+Service DLL: 
+
+
+=========== ndiswan ============
+Image Path: \systemroot\system32\drivers\ndiswan.sys
+Service DLL: 
+
+
+=========== ndiswanlegacy ============
+Image Path: system32\drivers\ndiswan.sys
+Service DLL: 
+
+
+=========== ndproxy ============
+Image Path: system32\drivers\ndproxy.sys
+Service DLL: 
+
+
+=========== ndu ============
+Image Path: system32\drivers\ndu.sys
+Service DLL: 
+
+
+=========== netadaptercx ============
+Image Path: system32\drivers\netadaptercx.sys
+Service DLL: 
+
+
+=========== netbios ============
+Image Path: system32\drivers\netbios.sys
+Service DLL: 
+
+
+=========== netbiossmb ============
+Image Path: 
+Service DLL: 
+
+
+=========== netbt ============
+Image Path: system32\drivers\netbt.sys
+Service DLL: 
+
+
+=========== netkvm ============
+Image Path: \systemroot\system32\drivers\netkvm.sys
+Service DLL: 
+
+
+=========== netlogon ============
+Image Path: c:\windows\system32\lsass.exe
+Service DLL: c:\windows\system32\netlogon.dll
+
+
+=========== netman ============
+Image Path: c:\windows\system32\svchost.exe -k localsystemnetworkrestricted -p
+Service DLL: c:\windows\system32\netman.dll
+
+
+=========== netprofm ============
+Image Path: c:\windows\system32\svchost.exe -k localservice -p
+Service DLL: c:\windows\system32\netprofmsvc.dll
+
+
+=========== netsetupsvc ============
+Image Path: c:\windows\system32\svchost.exe -k netsvcs -p
+Service DLL: c:\windows\system32\netsetupsvc.dll
+
+
+=========== nettcpportsharing ============
+Image Path: c:\windows\microsoft.net\framework64\v4.0.30319\smsvchost.exe
+Service DLL: 
+
+
+=========== netvsc ============
+Image Path: \systemroot\system32\drivers\netvsc.sys
+Service DLL: 
+
+
+=========== ngcctnrsvc ============
+Image Path: c:\windows\system32\svchost.exe -k localservicenetworkrestricted -p
+Service DLL: c:\windows\system32\ngcctnrsvc.dll
+
+
+=========== ngcsvc ============
+Image Path: c:\windows\system32\svchost.exe -k localsystemnetworkrestricted -p
+Service DLL: c:\windows\system32\ngcsvc.dll
+
+
+=========== nlasvc ============
+Image Path: c:\windows\system32\svchost.exe -k networkservice -p
+Service DLL: 
+
+
+=========== npfs ============
+Image Path: 
+Service DLL: 
+
+
+=========== npsvctrig ============
+Image Path: \systemroot\system32\drivers\npsvctrig.sys
+Service DLL: 
+
+
+=========== nsi ============
+Image Path: c:\windows\system32\svchost.exe -k localservice -p
+Service DLL: 
+
+
+=========== nsiproxy ============
+Image Path: system32\drivers\nsiproxy.sys
+Service DLL: 
+
+
+=========== ntds ============
+Image Path: 
+Service DLL: 
+
+
+=========== ntfs ============
+Image Path: 
+Service DLL: 
+
+
+=========== null ============
+Image Path: 
+Service DLL: 
+
+
+=========== nvdimm ============
+Image Path: \systemroot\system32\drivers\nvdimm.sys
+Service DLL: 
+
+
+=========== nvraid ============
+Image Path: system32\drivers\nvraid.sys
+Service DLL: 
+
+
+=========== nvstor ============
+Image Path: system32\drivers\nvstor.sys
+Service DLL: 
+
+
+=========== onesyncsvc ============
+Image Path: c:\windows\system32\svchost.exe -k unistacksvcgroup
+Service DLL: c:\windows\system32\aphostservice.dll
+
+
+=========== onesyncsvc_ee314e8 ============
+Image Path: c:\windows\system32\svchost.exe -k unistacksvcgroup
+Service DLL: 
+
+
+=========== p2pimsvc ============
+Image Path: c:\windows\system32\svchost.exe -k localservicepeernet
+Service DLL: c:\windows\system32\pnrpsvc.dll
+
+
+=========== p2psvc ============
+Image Path: c:\windows\system32\svchost.exe -k localservicepeernet
+Service DLL: c:\windows\system32\p2psvc.dll
+
+
+=========== parport ============
+Image Path: \systemroot\system32\drivers\parport.sys
+Service DLL: 
+
+
+=========== partmgr ============
+Image Path: system32\drivers\partmgr.sys
+Service DLL: 
+
+
+=========== pcasvc ============
+Image Path: c:\windows\system32\svchost.exe -k localsystemnetworkrestricted -p
+Service DLL: c:\windows\system32\pcasvc.dll
+
+
+=========== pci ============
+Image Path: system32\drivers\pci.sys
+Service DLL: 
+
+
+=========== pciide ============
+Image Path: system32\drivers\pciide.sys
+Service DLL: 
+
+
+=========== pcmcia ============
+Image Path: system32\drivers\pcmcia.sys
+Service DLL: 
+
+
+=========== pcw ============
+Image Path: system32\drivers\pcw.sys
+Service DLL: 
+
+
+=========== pdc ============
+Image Path: system32\drivers\pdc.sys
+Service DLL: 
+
+
+=========== peauth ============
+Image Path: system32\drivers\peauth.sys
+Service DLL: 
+
+
+=========== peerdistsvc ============
+Image Path: c:\windows\system32\svchost.exe -k peerdist
+Service DLL: c:\windows\system32\peerdistsvc.dll
+
+
+=========== perceptionsimulation ============
+Image Path: c:\windows\system32\perceptionsimulation\perceptionsimulationservice.exe
+Service DLL: 
+
+
+=========== percsas2i ============
+Image Path: system32\drivers\percsas2i.sys
+Service DLL: 
+
+
+=========== percsas3i ============
+Image Path: system32\drivers\percsas3i.sys
+Service DLL: 
+
+
+=========== perfdisk ============
+Image Path: 
+Service DLL: 
+
+
+=========== perfhost ============
+Image Path: c:\windows\syswow64\perfhost.exe
+Service DLL: 
+
+
+=========== perfnet ============
+Image Path: 
+Service DLL: 
+
+
+=========== perfos ============
+Image Path: 
+Service DLL: 
+
+
+=========== perfproc ============
+Image Path: 
+Service DLL: 
+
+
+=========== phonesvc ============
+Image Path: c:\windows\system32\svchost.exe -k localservice -p
+Service DLL: c:\windows\system32\phoneservice.dll
+
+
+=========== pimindexmaintenancesvc ============
+Image Path: c:\windows\system32\svchost.exe -k unistacksvcgroup
+Service DLL: c:\windows\system32\pimindexmaintenance.dll
+
+
+=========== pimindexmaintenancesvc_ee314e8 ============
+Image Path: c:\windows\system32\svchost.exe -k unistacksvcgroup
+Service DLL: 
+
+
+=========== pktmon ============
+Image Path: system32\drivers\pktmon.sys
+Service DLL: 
+
+
+=========== pla ============
+Image Path: c:\windows\system32\svchost.exe -k localservicenonetwork -p
+Service DLL: c:\windows\system32\pla.dll
+
+
+=========== plugplay ============
+Image Path: c:\windows\system32\svchost.exe -k dcomlaunch -p
+Service DLL: c:\windows\system32\umpnpmgr.dll
+
+
+=========== pmem ============
+Image Path: \systemroot\system32\drivers\pmem.sys
+Service DLL: 
+
+
+=========== pnpmem ============
+Image Path: \systemroot\system32\drivers\pnpmem.sys
+Service DLL: 
+
+
+=========== pnrpautoreg ============
+Image Path: c:\windows\system32\svchost.exe -k localservicepeernet
+Service DLL: c:\windows\system32\pnrpauto.dll
+
+
+=========== pnrpsvc ============
+Image Path: c:\windows\system32\svchost.exe -k localservicepeernet
+Service DLL: c:\windows\system32\pnrpsvc.dll
+
+
+=========== policyagent ============
+Image Path: c:\windows\system32\svchost.exe -k networkservicenetworkrestricted -p
+Service DLL: c:\windows\system32\ipsecsvc.dll
+
+
+=========== portproxy ============
+Image Path: 
+Service DLL: 
+
+
+=========== power ============
+Image Path: c:\windows\system32\svchost.exe -k dcomlaunch -p
+Service DLL: c:\windows\system32\umpo.dll
+
+
+=========== pptpminiport ============
+Image Path: \systemroot\system32\drivers\raspptp.sys
+Service DLL: 
+
+
+=========== printnotify ============
+Image Path: c:\windows\system32\svchost.exe -k print
+Service DLL: c:\windows\system32\spool\drivers\x64\3\printconfig.dll
+
+
+=========== printworkflowusersvc ============
+Image Path: c:\windows\system32\svchost.exe -k printworkflow
+Service DLL: c:\windows\system32\printworkflowservice.dll
+
+
+=========== printworkflowusersvc_ee314e8 ============
+Image Path: c:\windows\system32\svchost.exe -k printworkflow
+Service DLL: 
+
+
+=========== processor ============
+Image Path: \systemroot\system32\drivers\processr.sys
+Service DLL: 
+
+
+=========== profsvc ============
+Image Path: c:\windows\system32\svchost.exe -k netsvcs -p
+Service DLL: c:\windows\system32\profsvc.dll
+
+
+=========== psched ============
+Image Path: system32\drivers\pacer.sys
+Service DLL: 
+
+
+=========== pushtoinstall ============
+Image Path: c:\windows\system32\svchost.exe -k netsvcs -p
+Service DLL: c:\windows\system32\pushtoinstall.dll
+
+
+=========== qwave ============
+Image Path: c:\windows\system32\svchost.exe -k localserviceandnoimpersonation -p
+Service DLL: c:\windows\system32\qwave.dll
+
+
+=========== qwavedrv ============
+Image Path: \systemroot\system32\drivers\qwavedrv.sys
+Service DLL: 
+
+
+=========== ramdisk ============
+Image Path: system32\drivers\ramdisk.sys
+Service DLL: 
+
+
+=========== rasacd ============
+Image Path: system32\drivers\rasacd.sys
+Service DLL: 
+
+
+=========== rasagilevpn ============
+Image Path: \systemroot\system32\drivers\agilevpn.sys
+Service DLL: 
+
+
+=========== rasauto ============
+Image Path: c:\windows\system32\svchost.exe -k netsvcs -p
+Service DLL: c:\windows\system32\rasauto.dll
+
+
+=========== rasl2tp ============
+Image Path: \systemroot\system32\drivers\rasl2tp.sys
+Service DLL: 
+
+
+=========== rasman ============
+Image Path: c:\windows\system32\svchost.exe -k netsvcs
+Service DLL: c:\windows\system32\rasmans.dll
+
+
+=========== raspppoe ============
+Image Path: system32\drivers\raspppoe.sys
+Service DLL: 
+
+
+=========== rassstp ============
+Image Path: \systemroot\system32\drivers\rassstp.sys
+Service DLL: 
+
+
+=========== rdbss ============
+Image Path: system32\drivers\rdbss.sys
+Service DLL: 
+
+
+=========== rdmandk ============
+Image Path: 
+Service DLL: 
+
+
+=========== rdpbus ============
+Image Path: \systemroot\system32\drivers\rdpbus.sys
+Service DLL: 
+
+
+=========== rdpdr ============
+Image Path: system32\drivers\rdpdr.sys
+Service DLL: 
+
+
+=========== rdpnp ============
+Image Path: 
+Service DLL: 
+
+
+=========== rdpudd ============
+Image Path: 
+Service DLL: 
+
+
+=========== rdpvideominiport ============
+Image Path: system32\drivers\rdpvideominiport.sys
+Service DLL: 
+
+
+=========== rdyboost ============
+Image Path: system32\drivers\rdyboost.sys
+Service DLL: 
+
+
+=========== refs ============
+Image Path: 
+Service DLL: 
+
+
+=========== refsv1 ============
+Image Path: 
+Service DLL: 
+
+
+=========== remoteaccess ============
+Image Path: c:\windows\system32\svchost.exe -k netsvcs
+Service DLL: c:\windows\system32\mprdim.dll
+
+
+=========== remoteregistry ============
+Image Path: c:\windows\system32\svchost.exe -k localservice -p
+Service DLL: c:\windows\system32\regsvc.dll
+
+
+=========== retaildemo ============
+Image Path: c:\windows\system32\svchost.exe -k rdxgroup
+Service DLL: c:\windows\system32\rdxservice.dll
+
+
+=========== rfcomm ============
+Image Path: \systemroot\system32\drivers\rfcomm.sys
+Service DLL: 
+
+
+=========== rhproxy ============
+Image Path: \systemroot\system32\drivers\rhproxy.sys
+Service DLL: 
+
+
+=========== rmsvc ============
+Image Path: c:\windows\system32\svchost.exe -k localservicenetworkrestricted
+Service DLL: c:\windows\system32\rmapi.dll
+
+
+=========== rpceptmapper ============
+Image Path: c:\windows\system32\svchost.exe -k rpcss -p
+Service DLL: c:\windows\system32\rpcepmap.dll
+
+
+=========== rpclocator ============
+Image Path: c:\windows\system32\locator.exe
+Service DLL: 
+
+
+=========== rpcss ============
+Image Path: c:\windows\system32\svchost.exe -k rpcss -p
+Service DLL: c:\windows\system32\rpcss.dll
+
+
+=========== rspndr ============
+Image Path: system32\drivers\rspndr.sys
+Service DLL: 
+
+
+=========== s3cap ============
+Image Path: \systemroot\system32\drivers\vms3cap.sys
+Service DLL: 
+
+
+=========== samss ============
+Image Path: c:\windows\system32\lsass.exe
+Service DLL: 
+
+
+=========== sbp2port ============
+Image Path: system32\drivers\sbp2port.sys
+Service DLL: 
+
+
+=========== scardsvr ============
+Image Path: c:\windows\system32\svchost.exe -k localserviceandnoimpersonation
+Service DLL: c:\windows\system32\scardsvr.dll
+
+
+=========== scdeviceenum ============
+Image Path: c:\windows\system32\svchost.exe -k localsystemnetworkrestricted
+Service DLL: c:\windows\system32\scdeviceenum.dll
+
+
+=========== scfilter ============
+Image Path: system32\drivers\scfilter.sys
+Service DLL: 
+
+
+=========== schedule ============
+Image Path: c:\windows\system32\svchost.exe -k netsvcs -p
+Service DLL: c:\windows\system32\schedsvc.dll
+
+
+=========== scmbus ============
+Image Path: system32\drivers\scmbus.sys
+Service DLL: 
+
+
+=========== scpolicysvc ============
+Image Path: c:\windows\system32\svchost.exe -k netsvcs
+Service DLL: c:\windows\system32\certprop.dll
+
+
+=========== sdbus ============
+Image Path: \systemroot\system32\drivers\sdbus.sys
+Service DLL: 
+
+
+=========== sdfrd ============
+Image Path: \systemroot\system32\drivers\sdfrd.sys
+Service DLL: 
+
+
+=========== sdrsvc ============
+Image Path: c:\windows\system32\svchost.exe -k sdrsvc
+Service DLL: c:\windows\system32\sdrsvc.dll
+
+
+=========== sdstor ============
+Image Path: \systemroot\system32\drivers\sdstor.sys
+Service DLL: 
+
+
+=========== seclogon ============
+Image Path: c:\windows\system32\svchost.exe -k netsvcs -p
+Service DLL: c:\windows\system32\seclogon.dll
+
+
+=========== securityhealthservice ============
+Image Path: c:\windows\system32\securityhealthservice.exe
+Service DLL: 
+
+
+=========== semgrsvc ============
+Image Path: c:\windows\system32\svchost.exe -k localservice -p
+Service DLL: c:\windows\system32\semgrsvc.dll
+
+
+=========== sens ============
+Image Path: c:\windows\system32\svchost.exe -k netsvcs -p
+Service DLL: c:\windows\system32\sens.dll
+
+
+=========== sense ============
+Image Path: "c:\program files\windows defender advanced threat protection\mssense.exe"
+Service DLL: 
+
+
+=========== sensordataservice ============
+Image Path: c:\windows\system32\sensordataservice.exe
+Service DLL: 
+
+
+=========== sensorservice ============
+Image Path: c:\windows\system32\svchost.exe -k localsystemnetworkrestricted -p
+Service DLL: c:\windows\system32\sensorservice.dll
+
+
+=========== sensrsvc ============
+Image Path: c:\windows\system32\svchost.exe -k localserviceandnoimpersonation -p
+Service DLL: c:\windows\system32\sensrsvc.dll
+
+
+=========== sercx ============
+Image Path: system32\drivers\sercx.sys
+Service DLL: 
+
+
+=========== sercx2 ============
+Image Path: system32\drivers\sercx2.sys
+Service DLL: 
+
+
+=========== serenum ============
+Image Path: \systemroot\system32\drivers\serenum.sys
+Service DLL: 
+
+
+=========== serial ============
+Image Path: \systemroot\system32\drivers\serial.sys
+Service DLL: 
+
+
+=========== sermouse ============
+Image Path: \systemroot\system32\drivers\sermouse.sys
+Service DLL: 
+
+
+=========== sessionenv ============
+Image Path: c:\windows\system32\svchost.exe -k netsvcs -p
+Service DLL: c:\windows\system32\sessenv.dll
+
+
+=========== sfloppy ============
+Image Path: \systemroot\system32\drivers\sfloppy.sys
+Service DLL: 
+
+
+=========== sgrmagent ============
+Image Path: system32\drivers\sgrmagent.sys
+Service DLL: 
+
+
+=========== sgrmbroker ============
+Image Path: c:\windows\system32\sgrmbroker.exe
+Service DLL: 
+
+
+=========== sharedaccess ============
+Image Path: c:\windows\system32\svchost.exe -k netsvcs -p
+Service DLL: c:\windows\system32\ipnathlp.dll
+
+
+=========== sharedrealitysvc ============
+Image Path: c:\windows\system32\svchost.exe -k localservice -p
+Service DLL: c:\windows\system32\sharedrealitysvc.dll
+
+
+=========== shellhwdetection ============
+Image Path: c:\windows\system32\svchost.exe -k netsvcs -p
+Service DLL: c:\windows\system32\shsvcs.dll
+
+
+=========== shpamsvc ============
+Image Path: c:\windows\system32\svchost.exe -k netsvcs -p
+Service DLL: c:\windows\system32\windows.sharedpc.accountmanager.dll
+
+
+=========== sisraid2 ============
+Image Path: system32\drivers\sisraid2.sys
+Service DLL: 
+
+
+=========== sisraid4 ============
+Image Path: system32\drivers\sisraid4.sys
+Service DLL: 
+
+
+=========== smartpqi ============
+Image Path: 
+Service DLL: 
+
+
+=========== smartsamd ============
+Image Path: system32\drivers\smartsamd.sys
+Service DLL: 
+
+
+=========== smbdirect ============
+Image Path: system32\drivers\smbdirect.sys
+Service DLL: 
+
+
+=========== smphost ============
+Image Path: c:\windows\system32\svchost.exe -k smphost
+Service DLL: c:\windows\system32\smphost.dll
+
+
+=========== smsrouter ============
+Image Path: c:\windows\system32\svchost.exe -k localservicenetworkrestricted -p
+Service DLL: c:\windows\system32\smsroutersvc.dll
+
+
+=========== smsvchost 4.0.0.0 ============
+Image Path: 
+Service DLL: 
+
+
+=========== snmptrap ============
+Image Path: c:\windows\system32\snmptrap.exe
+Service DLL: 
+
+
+=========== spaceport ============
+Image Path: system32\drivers\spaceport.sys
+Service DLL: 
+
+
+=========== spatialgraphfilter ============
+Image Path: system32\drivers\spatialgraphfilter.sys
+Service DLL: 
+
+
+=========== spbcx ============
+Image Path: system32\drivers\spbcx.sys
+Service DLL: 
+
+
+=========== spectrum ============
+Image Path: c:\windows\system32\spectrum.exe
+Service DLL: 
+
+
+=========== spooler ============
+Image Path: c:\windows\system32\spoolsv.exe
+Service DLL: 
+
+
+=========== sppsvc ============
+Image Path: c:\windows\system32\sppsvc.exe
+Service DLL: 
+
+
+=========== srv2 ============
+Image Path: system32\drivers\srv2.sys
+Service DLL: 
+
+
+=========== srvnet ============
+Image Path: system32\drivers\srvnet.sys
+Service DLL: 
+
+
+=========== ssdpsrv ============
+Image Path: c:\windows\system32\svchost.exe -k localserviceandnoimpersonation -p
+Service DLL: c:\windows\system32\ssdpsrv.dll
+
+
+=========== ssh-agent ============
+Image Path: c:\windows\system32\openssh\ssh-agent.exe
+Service DLL: 
+
+
+=========== sstpsvc ============
+Image Path: c:\windows\system32\svchost.exe -k localservice -p
+Service DLL: c:\windows\system32\sstpsvc.dll
+
+
+=========== staterepository ============
+Image Path: c:\windows\system32\svchost.exe -k appmodel -p
+Service DLL: c:\windows\system32\windows.staterepository.dll
+
+
+=========== stexstor ============
+Image Path: system32\drivers\stexstor.sys
+Service DLL: 
+
+
+=========== stisvc ============
+Image Path: c:\windows\system32\svchost.exe -k imgsvc
+Service DLL: c:\windows\system32\wiaservc.dll
+
+
+=========== storahci ============
+Image Path: system32\drivers\storahci.sys
+Service DLL: 
+
+
+=========== storflt ============
+Image Path: system32\drivers\vmstorfl.sys
+Service DLL: 
+
+
+=========== stornvme ============
+Image Path: system32\drivers\stornvme.sys
+Service DLL: 
+
+
+=========== storqosflt ============
+Image Path: system32\drivers\storqosflt.sys
+Service DLL: 
+
+
+=========== storsvc ============
+Image Path: c:\windows\system32\svchost.exe -k localsystemnetworkrestricted -p
+Service DLL: c:\windows\system32\storsvc.dll
+
+
+=========== storufs ============
+Image Path: system32\drivers\storufs.sys
+Service DLL: 
+
+
+=========== storvsc ============
+Image Path: system32\drivers\storvsc.sys
+Service DLL: 
+
+
+=========== svsvc ============
+Image Path: c:\windows\system32\svchost.exe -k localsystemnetworkrestricted -p
+Service DLL: c:\windows\system32\svsvc.dll
+
+
+=========== swenum ============
+Image Path: \systemroot\system32\driverstore\filerepository\swenum.inf_amd64_31f554b660026323\swenum.sys
+Service DLL: 
+
+
+=========== swprv ============
+Image Path: c:\windows\system32\svchost.exe -k swprv
+Service DLL: c:\windows\system32\swprv.dll
+
+
+=========== synth3dvsc ============
+Image Path: \systemroot\system32\drivers\synth3dvsc.sys
+Service DLL: 
+
+
+=========== sysmain ============
+Image Path: c:\windows\system32\svchost.exe -k localsystemnetworkrestricted -p
+Service DLL: c:\windows\system32\sysmain.dll
+
+
+=========== systemeventsbroker ============
+Image Path: c:\windows\system32\svchost.exe -k dcomlaunch -p
+Service DLL: c:\windows\system32\systemeventsbrokerserver.dll
+
+
+=========== tabletinputservice ============
+Image Path: c:\windows\system32\svchost.exe -k localsystemnetworkrestricted -p
+Service DLL: c:\windows\system32\tabsvc.dll
+
+
+=========== tapisrv ============
+Image Path: c:\windows\system32\svchost.exe -k networkservice -p
+Service DLL: c:\windows\system32\tapisrv.dll
+
+
+=========== tcpip ============
+Image Path: system32\drivers\tcpip.sys
+Service DLL: 
+
+
+=========== tcpip6 ============
+Image Path: system32\drivers\tcpip.sys
+Service DLL: 
+
+
+=========== tcpip6tunnel ============
+Image Path: 
+Service DLL: 
+
+
+=========== tcpipreg ============
+Image Path: system32\drivers\tcpipreg.sys
+Service DLL: 
+
+
+=========== tcpiptunnel ============
+Image Path: 
+Service DLL: 
+
+
+=========== tdx ============
+Image Path: \systemroot\system32\drivers\tdx.sys
+Service DLL: 
+
+
+=========== terminpt ============
+Image Path: \systemroot\system32\drivers\terminpt.sys
+Service DLL: 
+
+
+=========== termservice ============
+Image Path: c:\windows\system32\svchost.exe -k networkservice
+Service DLL: c:\windows\system32\termsrv.dll
+
+
+=========== themes ============
+Image Path: c:\windows\system32\svchost.exe -k netsvcs -p
+Service DLL: c:\windows\system32\themeservice.dll
+
+
+=========== tieringengineservice ============
+Image Path: c:\windows\system32\tieringengineservice.exe
+Service DLL: 
+
+
+=========== timebrokersvc ============
+Image Path: c:\windows\system32\svchost.exe -k localservicenetworkrestricted -p
+Service DLL: c:\windows\system32\timebrokerserver.dll
+
+
+=========== tokenbroker ============
+Image Path: c:\windows\system32\svchost.exe -k netsvcs -p
+Service DLL: c:\windows\system32\tokenbroker.dll
+
+
+=========== tpm ============
+Image Path: \systemroot\system32\drivers\tpm.sys
+Service DLL: 
+
+
+=========== trkwks ============
+Image Path: c:\windows\system32\svchost.exe -k localsystemnetworkrestricted -p
+Service DLL: c:\windows\system32\trkwks.dll
+
+
+=========== trustedinstaller ============
+Image Path: c:\windows\servicing\trustedinstaller.exe
+Service DLL: 
+
+
+=========== tsddd ============
+Image Path: 
+Service DLL: 
+
+
+=========== tsusbflt ============
+Image Path: system32\drivers\tsusbflt.sys
+Service DLL: 
+
+
+=========== tsusbgd ============
+Image Path: \systemroot\system32\drivers\tsusbgd.sys
+Service DLL: 
+
+
+=========== tsusbhub ============
+Image Path: \systemroot\system32\drivers\tsusbhub.sys
+Service DLL: 
+
+
+=========== tunnel ============
+Image Path: system32\drivers\tunnel.sys
+Service DLL: 
+
+
+=========== tzautoupdate ============
+Image Path: c:\windows\system32\svchost.exe -k localservice -p
+Service DLL: c:\windows\system32\tzautoupdate.dll
+
+
+=========== uaspstor ============
+Image Path: \systemroot\system32\drivers\uaspstor.sys
+Service DLL: 
+
+
+=========== ucmcx0101 ============
+Image Path: system32\drivers\ucmcx.sys
+Service DLL: 
+
+
+=========== ucmtcpcicx0101 ============
+Image Path: system32\drivers\ucmtcpcicx.sys
+Service DLL: 
+
+
+=========== ucmucsi ============
+Image Path: \systemroot\system32\drivers\ucmucsi.sys
+Service DLL: 
+
+
+=========== ucmucsiacpiclient ============
+Image Path: \systemroot\system32\drivers\ucmucsiacpiclient.sys
+Service DLL: 
+
+
+=========== ucmucsicx0101 ============
+Image Path: system32\drivers\ucmucsicx.sys
+Service DLL: 
+
+
+=========== ucx01000 ============
+Image Path: system32\drivers\ucx01000.sys
+Service DLL: 
+
+
+=========== udecx ============
+Image Path: system32\drivers\udecx.sys
+Service DLL: 
+
+
+=========== udfs ============
+Image Path: system32\drivers\udfs.sys
+Service DLL: 
+
+
+=========== uefi ============
+Image Path: \systemroot\system32\drivers\uefi.sys
+Service DLL: 
+
+
+=========== uevagentdriver ============
+Image Path: \systemroot\system32\drivers\uevagentdriver.sys
+Service DLL: 
+
+
+=========== uevagentservice ============
+Image Path: c:\windows\system32\agentservice.exe
+Service DLL: 
+
+
+=========== ufx01000 ============
+Image Path: system32\drivers\ufx01000.sys
+Service DLL: 
+
+
+=========== ufxchipidea ============
+Image Path: \systemroot\system32\drivers\ufxchipidea.sys
+Service DLL: 
+
+
+=========== ufxsynopsys ============
+Image Path: \systemroot\system32\drivers\ufxsynopsys.sys
+Service DLL: 
+
+
+=========== ugatherer ============
+Image Path: 
+Service DLL: 
+
+
+=========== ugthrsvc ============
+Image Path: 
+Service DLL: 
+
+
+=========== umbus ============
+Image Path: \systemroot\system32\drivers\umbus.sys
+Service DLL: 
+
+
+=========== umpass ============
+Image Path: \systemroot\system32\drivers\umpass.sys
+Service DLL: 
+
+
+=========== umrdpservice ============
+Image Path: c:\windows\system32\svchost.exe -k localsystemnetworkrestricted -p
+Service DLL: c:\windows\system32\umrdp.dll
+
+
+=========== unistoresvc ============
+Image Path: c:\windows\system32\svchost.exe -k unistacksvcgroup
+Service DLL: c:\windows\system32\unistore.dll
+
+
+=========== unistoresvc_ee314e8 ============
+Image Path: c:\windows\system32\svchost.exe -k unistacksvcgroup
+Service DLL: 
+
+
+=========== upnphost ============
+Image Path: c:\windows\system32\svchost.exe -k localserviceandnoimpersonation -p
+Service DLL: c:\windows\system32\upnphost.dll
+
+
+=========== urschipidea ============
+Image Path: \systemroot\system32\drivers\urschipidea.sys
+Service DLL: 
+
+
+=========== urscx01000 ============
+Image Path: system32\drivers\urscx01000.sys
+Service DLL: 
+
+
+=========== urssynopsys ============
+Image Path: \systemroot\system32\drivers\urssynopsys.sys
+Service DLL: 
+
+
+=========== usbccgp ============
+Image Path: \systemroot\system32\drivers\usbccgp.sys
+Service DLL: 
+
+
+=========== usbcir ============
+Image Path: \systemroot\system32\drivers\usbcir.sys
+Service DLL: 
+
+
+=========== usbehci ============
+Image Path: \systemroot\system32\drivers\usbehci.sys
+Service DLL: 
+
+
+=========== usbhub ============
+Image Path: \systemroot\system32\drivers\usbhub.sys
+Service DLL: 
+
+
+=========== usbhub3 ============
+Image Path: \systemroot\system32\drivers\usbhub3.sys
+Service DLL: 
+
+
+=========== usbohci ============
+Image Path: \systemroot\system32\drivers\usbohci.sys
+Service DLL: 
+
+
+=========== usbprint ============
+Image Path: \systemroot\system32\drivers\usbprint.sys
+Service DLL: 
+
+
+=========== usbser ============
+Image Path: \systemroot\system32\drivers\usbser.sys
+Service DLL: 
+
+
+=========== usbstor ============
+Image Path: \systemroot\system32\drivers\usbstor.sys
+Service DLL: 
+
+
+=========== usbuhci ============
+Image Path: \systemroot\system32\drivers\usbuhci.sys
+Service DLL: 
+
+
+=========== usbxhci ============
+Image Path: \systemroot\system32\drivers\usbxhci.sys
+Service DLL: 
+
+
+=========== userdatasvc ============
+Image Path: c:\windows\system32\svchost.exe -k unistacksvcgroup
+Service DLL: c:\windows\system32\userdataservice.dll
+
+
+=========== userdatasvc_ee314e8 ============
+Image Path: c:\windows\system32\svchost.exe -k unistacksvcgroup
+Service DLL: 
+
+
+=========== usermanager ============
+Image Path: c:\windows\system32\svchost.exe -k netsvcs -p
+Service DLL: c:\windows\system32\usermgr.dll
+
+
+=========== usosvc ============
+Image Path: c:\windows\system32\svchost.exe -k netsvcs -p
+Service DLL: c:\windows\system32\usocore.dll
+
+
+=========== vacsvc ============
+Image Path: c:\windows\system32\svchost.exe -k localservicenetworkrestricted -p
+Service DLL: c:\windows\system32\vac.dll
+
+
+=========== vaultsvc ============
+Image Path: c:\windows\system32\lsass.exe
+Service DLL: c:\windows\system32\vaultsvc.dll
+
+
+=========== vdrvroot ============
+Image Path: system32\drivers\vdrvroot.sys
+Service DLL: 
+
+
+=========== vds ============
+Image Path: c:\windows\system32\vds.exe
+Service DLL: 
+
+
+=========== verifierext ============
+Image Path: system32\drivers\verifierext.sys
+Service DLL: 
+
+
+=========== vhdmp ============
+Image Path: \systemroot\system32\drivers\vhdmp.sys
+Service DLL: 
+
+
+=========== vhf ============
+Image Path: \systemroot\system32\drivers\vhf.sys
+Service DLL: 
+
+
+=========== vid ============
+Image Path: \systemroot\system32\drivers\vid.sys
+Service DLL: 
+
+
+=========== viostor ============
+Image Path: system32\drivers\viostor.sys
+Service DLL: 
+
+
+=========== vmbus ============
+Image Path: system32\drivers\vmbus.sys
+Service DLL: 
+
+
+=========== vmbushid ============
+Image Path: \systemroot\system32\drivers\vmbushid.sys
+Service DLL: 
+
+
+=========== vmgid ============
+Image Path: \systemroot\system32\drivers\vmgid.sys
+Service DLL: 
+
+
+=========== vmicguestinterface ============
+Image Path: c:\windows\system32\svchost.exe -k localsystemnetworkrestricted -p
+Service DLL: c:\windows\system32\icsvc.dll
+
+
+=========== vmicheartbeat ============
+Image Path: c:\windows\system32\svchost.exe -k icservice -p
+Service DLL: c:\windows\system32\icsvc.dll
+
+
+=========== vmickvpexchange ============
+Image Path: c:\windows\system32\svchost.exe -k localsystemnetworkrestricted -p
+Service DLL: c:\windows\system32\icsvc.dll
+
+
+=========== vmicrdv ============
+Image Path: c:\windows\system32\svchost.exe -k icservice -p
+Service DLL: c:\windows\system32\icsvcext.dll
+
+
+=========== vmicshutdown ============
+Image Path: c:\windows\system32\svchost.exe -k localsystemnetworkrestricted -p
+Service DLL: c:\windows\system32\icsvc.dll
+
+
+=========== vmictimesync ============
+Image Path: c:\windows\system32\svchost.exe -k localservicenetworkrestricted -p
+Service DLL: c:\windows\system32\icsvc.dll
+
+
+=========== vmicvmsession ============
+Image Path: c:\windows\system32\svchost.exe -k localsystemnetworkrestricted -p
+Service DLL: c:\windows\system32\icsvc.dll
+
+
+=========== vmicvss ============
+Image Path: c:\windows\system32\svchost.exe -k localsystemnetworkrestricted -p
+Service DLL: c:\windows\system32\icsvcext.dll
+
+
+=========== volmgr ============
+Image Path: system32\drivers\volmgr.sys
+Service DLL: 
+
+
+=========== volmgrx ============
+Image Path: system32\drivers\volmgrx.sys
+Service DLL: 
+
+
+=========== volsnap ============
+Image Path: system32\drivers\volsnap.sys
+Service DLL: 
+
+
+=========== volume ============
+Image Path: system32\drivers\volume.sys
+Service DLL: 
+
+
+=========== vpci ============
+Image Path: \systemroot\system32\drivers\vpci.sys
+Service DLL: 
+
+
+=========== vsmraid ============
+Image Path: system32\drivers\vsmraid.sys
+Service DLL: 
+
+
+=========== vss ============
+Image Path: c:\windows\system32\vssvc.exe
+Service DLL: 
+
+
+=========== vstxraid ============
+Image Path: system32\drivers\vstxraid.sys
+Service DLL: 
+
+
+=========== vwifibus ============
+Image Path: \systemroot\system32\drivers\vwifibus.sys
+Service DLL: 
+
+
+=========== vwififlt ============
+Image Path: system32\drivers\vwififlt.sys
+Service DLL: 
+
+
+=========== w32time ============
+Image Path: c:\windows\system32\svchost.exe -k localservice
+Service DLL: c:\windows\system32\w32time.dll
+
+
+=========== waasmedicsvc ============
+Image Path: c:\windows\system32\svchost.exe -k wusvcs -p
+Service DLL: c:\windows\system32\waasmedicsvc.dll
+
+
+=========== wacompen ============
+Image Path: \systemroot\system32\drivers\wacompen.sys
+Service DLL: 
+
+
+=========== walletservice ============
+Image Path: c:\windows\system32\svchost.exe -k appmodel -p
+Service DLL: c:\windows\system32\walletservice.dll
+
+
+=========== wanarp ============
+Image Path: system32\drivers\wanarp.sys
+Service DLL: 
+
+
+=========== wanarpv6 ============
+Image Path: system32\drivers\wanarp.sys
+Service DLL: 
+
+
+=========== warpjitsvc ============
+Image Path: c:\windows\system32\svchost.exe -k localservicenetworkrestricted
+Service DLL: c:\windows\system32\windows.warp.jitservice.dll
+
+
+=========== wbengine ============
+Image Path: "c:\windows\system32\wbengine.exe"
+Service DLL: 
+
+
+=========== wbiosrvc ============
+Image Path: c:\windows\system32\svchost.exe -k wbiosvcgroup
+Service DLL: c:\windows\system32\wbiosrvc.dll
+
+
+=========== wcifs ============
+Image Path: \systemroot\system32\drivers\wcifs.sys
+Service DLL: 
+
+
+=========== wcmsvc ============
+Image Path: c:\windows\system32\svchost.exe -k localservicenetworkrestricted -p
+Service DLL: c:\windows\system32\wcmsvc.dll
+
+
+=========== wcncsvc ============
+Image Path: c:\windows\system32\svchost.exe -k localserviceandnoimpersonation -p
+Service DLL: c:\windows\system32\wcncsvc.dll
+
+
+=========== wcnfs ============
+Image Path: \systemroot\system32\drivers\wcnfs.sys
+Service DLL: 
+
+
+=========== wdboot ============
+Image Path: \systemroot\system32\drivers\wdboot.sys
+Service DLL: 
+
+
+=========== wdf01000 ============
+Image Path: system32\drivers\wdf01000.sys
+Service DLL: 
+
+
+=========== wdfilter ============
+Image Path: \systemroot\system32\drivers\wdfilter.sys
+Service DLL: 
+
+
+=========== wdiservicehost ============
+Image Path: c:\windows\system32\svchost.exe -k localservice -p
+Service DLL: c:\windows\system32\wdi.dll
+
+
+=========== wdisystemhost ============
+Image Path: c:\windows\system32\svchost.exe -k localsystemnetworkrestricted -p
+Service DLL: c:\windows\system32\wdi.dll
+
+
+=========== wdiwifi ============
+Image Path: system32\drivers\wdiwifi.sys
+Service DLL: 
+
+
+=========== wdmcompanionfilter ============
+Image Path: system32\drivers\wdmcompanionfilter.sys
+Service DLL: 
+
+
+=========== wdnisdrv ============
+Image Path: system32\drivers\wdnisdrv.sys
+Service DLL: 
+
+
+=========== wdnissvc ============
+Image Path: "c:\program files\windows defender\nissrv.exe"
+Service DLL: 
+
+
+=========== webclient ============
+Image Path: c:\windows\system32\svchost.exe -k localservice -p
+Service DLL: c:\windows\system32\webclnt.dll
+
+
+=========== wecsvc ============
+Image Path: c:\windows\system32\svchost.exe -k networkservice -p
+Service DLL: c:\windows\system32\wecsvc.dll
+
+
+=========== wephostsvc ============
+Image Path: c:\windows\system32\svchost.exe -k wephostsvcgroup
+Service DLL: c:\windows\system32\wephostsvc.dll
+
+
+=========== wercplsupport ============
+Image Path: c:\windows\system32\svchost.exe -k netsvcs -p
+Service DLL: c:\windows\system32\wercplsupport.dll
+
+
+=========== wersvc ============
+Image Path: c:\windows\system32\svchost.exe -k wersvcgroup
+Service DLL: c:\windows\system32\wersvc.dll
+
+
+=========== wfdsconmgrsvc ============
+Image Path: c:\windows\system32\svchost.exe -k localservicenetworkrestricted -p
+Service DLL: c:\windows\system32\wfdsconmgrsvc.dll
+
+
+=========== wfplwfs ============
+Image Path: system32\drivers\wfplwfs.sys
+Service DLL: 
+
+
+=========== wiarpc ============
+Image Path: c:\windows\system32\svchost.exe -k localsystemnetworkrestricted -p
+Service DLL: c:\windows\system32\wiarpc.dll
+
+
+=========== wimmount ============
+Image Path: system32\drivers\wimmount.sys
+Service DLL: 
+
+
+=========== windefend ============
+Image Path: "c:\program files\windows defender\msmpeng.exe"
+Service DLL: 
+
+
+=========== windows workflow foundation 4.0.0.0 ============
+Image Path: 
+Service DLL: 
+
+
+=========== windowstrustedrt ============
+Image Path: system32\drivers\windowstrustedrt.sys
+Service DLL: 
+
+
+=========== windowstrustedrtproxy ============
+Image Path: system32\drivers\windowstrustedrtproxy.sys
+Service DLL: 
+
+
+=========== winhttpautoproxysvc ============
+Image Path: c:\windows\system32\svchost.exe -k localservicenetworkrestricted -p
+Service DLL: c:\windows\system32\winhttp.dll
+
+
+=========== winmad ============
+Image Path: \systemroot\system32\drivers\winmad.sys
+Service DLL: 
+
+
+=========== winmgmt ============
+Image Path: c:\windows\system32\svchost.exe -k netsvcs -p
+Service DLL: c:\windows\system32\wbem\wmisvc.dll
+
+
+=========== winnat ============
+Image Path: system32\drivers\winnat.sys
+Service DLL: 
+
+
+=========== winquic ============
+Image Path: system32\drivers\winquic.sys
+Service DLL: 
+
+
+=========== winrm ============
+Image Path: c:\windows\system32\svchost.exe -k networkservice -p
+Service DLL: c:\windows\system32\wsmsvc.dll
+
+
+=========== winsock ============
+Image Path: 
+Service DLL: 
+
+
+=========== winsock2 ============
+Image Path: 
+Service DLL: 
+
+
+=========== winusb ============
+Image Path: \systemroot\system32\drivers\winusb.sys
+Service DLL: 
+
+
+=========== winverbs ============
+Image Path: \systemroot\system32\drivers\winverbs.sys
+Service DLL: 
+
+
+=========== wisvc ============
+Image Path: c:\windows\system32\svchost.exe -k netsvcs -p
+Service DLL: c:\windows\system32\flightsettings.dll
+
+
+=========== wlansvc ============
+Image Path: c:\windows\system32\svchost.exe -k localsystemnetworkrestricted -p
+Service DLL: c:\windows\system32\wlansvc.dll
+
+
+=========== wlidsvc ============
+Image Path: c:\windows\system32\svchost.exe -k netsvcs -p
+Service DLL: c:\windows\system32\wlidsvc.dll
+
+
+=========== wlpasvc ============
+Image Path: c:\windows\system32\svchost.exe -k localservicenetworkrestricted -p
+Service DLL: c:\windows\system32\lpasvc.dll
+
+
+=========== wmansvc ============
+Image Path: c:\windows\system32\svchost.exe -k netsvcs -p
+Service DLL: c:\windows\system32\windows.management.service.dll
+
+
+=========== wmiacpi ============
+Image Path: \systemroot\system32\drivers\wmiacpi.sys
+Service DLL: 
+
+
+=========== wmiaprpl ============
+Image Path: 
+Service DLL: 
+
+
+=========== wmiapsrv ============
+Image Path: c:\windows\system32\wbem\wmiapsrv.exe
+Service DLL: 
+
+
+=========== wmpnetworksvc ============
+Image Path: "c:\program files\windows media player\wmpnetwk.exe"
+Service DLL: 
+
+
+=========== wof ============
+Image Path: 
+Service DLL: 
+
+
+=========== workerdd ============
+Image Path: 
+Service DLL: 
+
+
+=========== workfolderssvc ============
+Image Path: c:\windows\system32\svchost.exe -k localservice -p
+Service DLL: c:\windows\system32\workfolderssvc.dll
+
+
+=========== wpcmonsvc ============
+Image Path: c:\windows\system32\svchost.exe -k localservice
+Service DLL: c:\windows\system32\wpcdesktopmonsvc.dll
+
+
+=========== wpdbusenum ============
+Image Path: c:\windows\system32\svchost.exe -k localsystemnetworkrestricted
+Service DLL: c:\windows\system32\wpdbusenum.dll
+
+
+=========== wpdupfltr ============
+Image Path: system32\drivers\wpdupfltr.sys
+Service DLL: 
+
+
+=========== wpnservice ============
+Image Path: c:\windows\system32\svchost.exe -k netsvcs -p
+Service DLL: c:\windows\system32\wpnservice.dll
+
+
+=========== wpnuserservice ============
+Image Path: c:\windows\system32\svchost.exe -k unistacksvcgroup
+Service DLL: c:\windows\system32\wpnuserservice.dll
+
+
+=========== wpnuserservice_ee314e8 ============
+Image Path: c:\windows\system32\svchost.exe -k unistacksvcgroup
+Service DLL: 
+
+
+=========== ws2ifsl ============
+Image Path: \systemroot\system32\drivers\ws2ifsl.sys
+Service DLL: 
+
+
+=========== wscsvc ============
+Image Path: c:\windows\system32\svchost.exe -k localservicenetworkrestricted -p
+Service DLL: c:\windows\system32\wscsvc.dll
+
+
+=========== wsearch ============
+Image Path: c:\windows\system32\searchindexer.exe /embedding
+Service DLL: 
+
+
+=========== wsearchidxpi ============
+Image Path: 
+Service DLL: 
+
+
+=========== wuauserv ============
+Image Path: c:\windows\system32\svchost.exe -k netsvcs -p
+Service DLL: c:\windows\system32\wuaueng.dll
+
+
+=========== wudfpf ============
+Image Path: system32\drivers\wudfpf.sys
+Service DLL: 
+
+
+=========== wudfrd ============
+Image Path: \systemroot\system32\drivers\wudfrd.sys
+Service DLL: 
+
+
+=========== wwansvc ============
+Image Path: c:\windows\system32\svchost.exe -k localsystemnetworkrestricted -p
+Service DLL: c:\windows\system32\wwansvc.dll
+
+
+=========== xblauthmanager ============
+Image Path: c:\windows\system32\svchost.exe -k netsvcs -p
+Service DLL: c:\windows\system32\xblauthmanager.dll
+
+
+=========== xblgamesave ============
+Image Path: c:\windows\system32\svchost.exe -k netsvcs -p
+Service DLL: c:\windows\system32\xblgamesave.dll
+
+
+=========== xboxgip ============
+Image Path: \systemroot\system32\drivers\xboxgip.sys
+Service DLL: 
+
+
+=========== xboxgipsvc ============
+Image Path: c:\windows\system32\svchost.exe -k netsvcs -p
+Service DLL: c:\windows\system32\xboxgipsvc.dll
+
+
+=========== xboxnetapisvc ============
+Image Path: c:\windows\system32\svchost.exe -k netsvcs -p
+Service DLL: c:\windows\system32\xboxnetapisvc.dll
+
+
+=========== xinputhid ============
+Image Path: \systemroot\system32\drivers\xinputhid.sys
+Service DLL: 
+
+
+=========== xmlprov ============
+Image Path: 
+Service DLL: 
+
+
